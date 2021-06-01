@@ -1,6 +1,8 @@
 # first_flutter
 
-A new Flutter project.
+Basic name generation app built to learn Flutter.
+
+Run by starting up an iOS Simulator and by typing `flutter run` in Terminal, or press F5 in VSCode.
 
 ## Getting Started
 
